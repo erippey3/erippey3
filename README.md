@@ -1,5 +1,5 @@
 # 💫 About Me:
-M.S. student in computer science, studying HPC. <br>Interested in work involving parallel computing and HPC.<br>Currently a part of the Synergy Lab @ VT<br>Hobbies include homelabs/self hosting and a small amount of gamedev.<br>Fun fact: I am the president of the Virginia Tech Gymnastics Team
+M.S. student in computer science, studying HPC. <br>Interested in work involving parallel computing and HPC.<br>Currently a part of the [Synergy Lab @ VT](https://synergy.cs.vt.edu/)<br>Hobbies include homelabs/self hosting and a small amount of gamedev.<br>Fun fact: I am the president of the Virginia Tech Gymnastics Team
 
 
 ## 🌐 Socials:
@@ -12,5 +12,3 @@ M.S. student in computer science, studying HPC. <br>Interested in work involving
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erippey3&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
